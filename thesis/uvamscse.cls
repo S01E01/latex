@@ -28,7 +28,7 @@
 \usepackage{amscd}
 \usepackage[nottoc,notlot,notlof]{tocbibind}
 \usepackage{multirow}
-\usepackage[unicode,bookmarks=false,pdfstartview={FitW},colorlinks,linkcolor=blue,urlcolor=blue,citecolor=blue]{hyperref}
+\usepackage[unicode,bookmarks=false,pdfstartview=,colorlinks,linkcolor=blue,urlcolor=blue,citecolor=blue]{hyperref}
 \newcommand{\email}[1]{\href{mailto:#1}{#1}}
 \newcommand{\doi}[1]{\texttt{\href{http://dx.doi.org/#1}{doi:#1}}}
 
