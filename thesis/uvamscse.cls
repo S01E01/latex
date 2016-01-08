@@ -84,7 +84,7 @@
   \vfill
   \begin{center}
   \begin{tabular}{r|l}
-    \multirow{3}{*}{\includegraphics[height=48pt]{uva.pdf}}
+    \multirow{3}{*}{\includegraphics[height=48pt]{figures/uva.pdf}}
     &\textsc{\Large Universiteit van Amsterdam}\\
 	&\textsc{Faculteit der Natuurwetenschappen, Wiskunde en Informatica}\\
 	&\textsc{Master Software Engineering}\\
