@@ -26,6 +26,7 @@
 \usepackage{amssymb}
 \usepackage{amsmath}
 \usepackage{amscd}
+\usepackage{caption}
 \usepackage[nottoc,notlot,notlof]{tocbibind}
 \usepackage{multirow}
 \usepackage[unicode,bookmarks=false,pdfstartview=,colorlinks,linkcolor=blue,urlcolor=blue,citecolor=blue]{hyperref}
